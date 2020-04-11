@@ -1,0 +1,11 @@
+---
+
+---
+<div class="container content post">
+  <h3><strong>{{ page.title }}</strong><br/>
+  <small>posted by {{ page.author | date: '%B %-d, %Y'}}</small></h3>
+  <hr>
+  {{ content }}
+  {% include head.html %}
+  <div id="disqus_thread"></div>
+</div>
