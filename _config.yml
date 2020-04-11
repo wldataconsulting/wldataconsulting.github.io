@@ -69,10 +69,6 @@ defaults:
     values:
       permalink: ""
 
-collections:
-   work:
-      output: true
-      permalink: /work/:path/
 
 collections:
    blogs:
