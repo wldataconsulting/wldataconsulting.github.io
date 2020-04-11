@@ -69,8 +69,6 @@ defaults:
     values:
       permalink: ""
 
-#for blogs
-
 collections:
    work:
       output: true
