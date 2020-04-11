@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+    </br>
+    </br>
+    {% capture my_include %}{% include cv.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+
+   
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+    </body>
+</html>

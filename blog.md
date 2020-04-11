@@ -8,6 +8,7 @@ permalink: /blog/
 ### **Latest blog posts **
 
 <div class="content list">
+  {% include nav.html %}
   {% for post in site.blogs %}
 
     <div class="list-item">
