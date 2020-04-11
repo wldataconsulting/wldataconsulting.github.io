@@ -1,8 +1,3 @@
----
-title: 'bootcamp'
-premalink: /bootcamp/
----
-
 <!DOCTYPE html>
 <html>
     {% include head.html %}
@@ -10,7 +5,10 @@ premalink: /bootcamp/
     {% include nav.html %}
     </br>
     </br>
-    {% include bootcamp.html%}
+    {% capture my_include %}{% include subscribe.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+
+   
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}
