@@ -68,3 +68,11 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+#for blogs
+
+collections:
+   work:
+      output: true
+      permalink: /work/:path/
+
