@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Tyler King's CV
+title: Dayne's CV
 ---
-# Tyler King
-Developing solutions through experience.
+# Dayne Wyatt Lee Sorvisto
+Developing creative solutions through passion and experience.
 
-father \| homebrewer \| motorcycle enthusiast \| experienced programmer
+dog lover \| python developer \| data scientist \| coding bootcamp instructor 
 
 <div id="webaddress">
 <i class="fas fa-at"></i> <a href="tyler@osiset.com">tyler@osiset.com</a> /

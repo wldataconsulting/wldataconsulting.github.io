@@ -2,7 +2,8 @@
 layout: page
 title: Subscribe list
 ---
-
+ <br/>
+ <br/>
 <br/>
 Receive free code tips, networking and job opportunities. Subscribe to our Alberta coders network: 
 
