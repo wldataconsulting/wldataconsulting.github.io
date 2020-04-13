@@ -1,7 +1,4 @@
----
-layout: page
-title: Dayne's CV
----
+
 # Dayne Wyatt Lee Sorvisto
 Developing creative data solutions through passion and experience.
 
