@@ -1,18 +1,5 @@
 ---
 title: 'bootcamp'
+layout: bootcamp
 premalink: /bootcamp/
 ---
-
-<!DOCTYPE html>
-<html>
-    {% include head.html %}
-    <body id="page-top" class="index">
-    {% include nav.html %}
-    </br>
-    </br>
-    {% include bootcamp.html%}
-    {% include footer.html %}
-    {% include modals.html %}
-    {% include js.html %}
-    </body>
-</html>
