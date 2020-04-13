@@ -1,7 +1,4 @@
----
-layout: page
-title: Subscribe list
----
+
  <br/>
  <br/>
 <br/>

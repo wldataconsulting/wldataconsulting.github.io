@@ -2,7 +2,7 @@
 # Dayne Wyatt Lee Sorvisto
 Developing creative data solutions through passion and experience.
 
-dog lover \| python developer \| data scientist \| coding bootcamp instructor 
+data engineer \| python developer \| data scientist \| coding bootcamp instructor 
 
 <div id="webaddress">
 <i class="fas fa-at"></i> <a href="dayne@wldataconsulting.github.io">daynesorvisto@yahoo.ca</a> /
