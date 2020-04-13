@@ -1,10 +1,10 @@
 # Site settings
-title: Out of the Box Consulting 
+title: WL Data Consulting 
 email: daynesorvisto@yahoo.ca
 url: https://github.com/daynesorvisto
-description: "Out of the Box Consulting Solutions founded in Calgary, Alberta"
-keywords: "web design, code coaching, IT contracting"
-skills: "Data Engineer - Web Developer - Coding Coach"
+description: "WL Data Consulting founded in Calgary, Alberta"
+keywords: "data science, code coaching, IT contracting"
+skills: "Data Engineer - Data Scientist - Coding Coach"
 meta_author: Sorvisto Dayne
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dayne Sorvisto
+  copyright: Dayne Wyatt Lee Sorvisto
   location: Calgary, Alberta
   social: Around the Web
 
@@ -42,16 +42,11 @@ social:
     url: https://stackoverflow.com/users/5344583/mrl
   - title: github
     url: http://github.com/daynesorvisto
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/bigdatacalgary/
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 223 199 Range Road 284
-  - line: Calgary, AB, Canada
+
 
 # Credits content
-credits: 'This site was custom coded by Out of the Box Software Consulting'
+credits: 'This site was custom coded by WL Data Consulting'
 
 # Build settings
 markdown: kramdown

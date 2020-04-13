@@ -1,4 +1,4 @@
 ---
 layout: cv
-title: Tyler King's CV
+title: Dayne Wylatt Lee Sorvisto's CV
 ---
