@@ -8,9 +8,7 @@ Developing creative data solutions through passion and experience.
 dog lover \| python developer \| data scientist \| coding bootcamp instructor 
 
 <div id="webaddress">
-<i class="fas fa-at"></i> <a href="tyler@osiset.com">tyler@osiset.com</a> /
-<i class="fas fa-globe-americas"></i> <a href="https://osiset.com" target="_blank">osiset.com</a> /
-<i class="fab fa-github-alt"></i> <a href="https://github.com/osiset" target="_blank">osiset</a>
+<i class="fas fa-at"></i> <a href="dayne@wldataconsulting.github.io">daynesorvisto@yahoo.ca</a> /
 </div>
 
 ## Currently
